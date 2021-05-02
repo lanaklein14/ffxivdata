@@ -1,0 +1,29 @@
+{
+  "name": "ffxivdata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node tools/build.js",
+    "xivapi": "node tools/xivapi.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lanaklein14@github.com/lanaklein14/ffxivdata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanaklein14/ffxivdata/issues"
+  },
+  "homepage": "https://github.com/lanaklein14/ffxivdata#readme",
+  "devDependencies": {
+    "xivapi-js": "^0.3.0"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "log4js": "^6.3.0"
+  }
+}

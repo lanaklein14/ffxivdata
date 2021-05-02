@@ -1,0 +1,136 @@
+{
+  "Elemental": [
+    {
+      "id": 90,
+      "name": "Aegis"
+    },
+    {
+      "id": 68,
+      "name": "Atomos"
+    },
+    {
+      "id": 45,
+      "name": "Carbuncle"
+    },
+    {
+      "id": 58,
+      "name": "Garuda"
+    },
+    {
+      "id": 94,
+      "name": "Gungnir"
+    },
+    {
+      "id": 49,
+      "name": "Kujata"
+    },
+    {
+      "id": 60,
+      "name": "Ramuh"
+    },
+    {
+      "id": 72,
+      "name": "Tonberry"
+    },
+    {
+      "id": 50,
+      "name": "Typhon"
+    },
+    {
+      "id": 30,
+      "name": "Unicorn"
+    }
+  ],
+  "Gaia": [
+    {
+      "id": 43,
+      "name": "Alexander"
+    },
+    {
+      "id": 69,
+      "name": "Bahamut"
+    },
+    {
+      "id": 92,
+      "name": "Durandal"
+    },
+    {
+      "id": 46,
+      "name": "Fenrir"
+    },
+    {
+      "id": 59,
+      "name": "Ifrit"
+    },
+    {
+      "id": 98,
+      "name": "Ridill"
+    },
+    {
+      "id": 76,
+      "name": "Tiamat"
+    },
+    {
+      "id": 51,
+      "name": "Ultima"
+    },
+    {
+      "id": 52,
+      "name": "Valefor"
+    },
+    {
+      "id": 31,
+      "name": "Yojimbo"
+    },
+    {
+      "id": 32,
+      "name": "Zeromus"
+    }
+  ],
+  "Mana": [
+    {
+      "id": 44,
+      "name": "Anima"
+    },
+    {
+      "id": 23,
+      "name": "Asura"
+    },
+    {
+      "id": 24,
+      "name": "Belias"
+    },
+    {
+      "id": 70,
+      "name": "Chocobo"
+    },
+    {
+      "id": 47,
+      "name": "Hades"
+    },
+    {
+      "id": 48,
+      "name": "Ixion"
+    },
+    {
+      "id": 82,
+      "name": "Mandragora"
+    },
+    {
+      "id": 96,
+      "name": "Masamune"
+    },
+    {
+      "id": 28,
+      "name": "Pandaemonium"
+    },
+    {
+      "id": 29,
+      "name": "Shinryu"
+    },
+    {
+      "id": 61,
+      "name": "Titan"
+    }
+  ]
+}

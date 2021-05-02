@@ -1,0 +1,177 @@
+[
+  {
+    "id": 30,
+    "name": "中央ラノシア",
+    "insCount": 1
+  },
+  {
+    "id": 31,
+    "name": "低地ラノシア",
+    "insCount": 1
+  },
+  {
+    "id": 32,
+    "name": "東ラノシア",
+    "insCount": 1
+  },
+  {
+    "id": 33,
+    "name": "西ラノシア",
+    "insCount": 1
+  },
+  {
+    "id": 34,
+    "name": "高地ラノシア",
+    "insCount": 1
+  },
+  {
+    "id": 42,
+    "name": "西ザナラーン",
+    "insCount": 1
+  },
+  {
+    "id": 43,
+    "name": "中央ザナラーン",
+    "insCount": 1
+  },
+  {
+    "id": 44,
+    "name": "東ザナラーン",
+    "insCount": 1
+  },
+  {
+    "id": 45,
+    "name": "南ザナラーン",
+    "insCount": 1
+  },
+  {
+    "id": 46,
+    "name": "北ザナラーン",
+    "insCount": 1
+  },
+  {
+    "id": 54,
+    "name": "黒衣森：中央森林",
+    "insCount": 1
+  },
+  {
+    "id": 55,
+    "name": "黒衣森：東部森林",
+    "insCount": 1
+  },
+  {
+    "id": 56,
+    "name": "黒衣森：南部森林",
+    "insCount": 1
+  },
+  {
+    "id": 57,
+    "name": "黒衣森：北部森林",
+    "insCount": 1
+  },
+  {
+    "id": 63,
+    "name": "クルザス中央高地",
+    "insCount": 1
+  },
+  {
+    "id": 67,
+    "name": "モードゥナ",
+    "insCount": 1
+  },
+  {
+    "id": 350,
+    "name": "外地ラノシア",
+    "insCount": 1
+  },
+  {
+    "id": 2000,
+    "name": "高地ドラヴァニア",
+    "insCount": 1
+  },
+  {
+    "id": 2001,
+    "name": "低地ドラヴァニア",
+    "insCount": 1
+  },
+  {
+    "id": 2002,
+    "name": "ドラヴァニア雲海",
+    "insCount": 1
+  },
+  {
+    "id": 2100,
+    "name": "アバラシア雲海",
+    "insCount": 1
+  },
+  {
+    "id": 2101,
+    "name": "アジス・ラー",
+    "insCount": 1
+  },
+  {
+    "id": 2200,
+    "name": "クルザス西部高地",
+    "insCount": 1
+  },
+  {
+    "id": 2406,
+    "name": "ギラバニア辺境地帯",
+    "insCount": 1
+  },
+  {
+    "id": 2407,
+    "name": "ギラバニア山岳地帯",
+    "insCount": 1
+  },
+  {
+    "id": 2408,
+    "name": "ギラバニア湖畔地帯",
+    "insCount": 1
+  },
+  {
+    "id": 2409,
+    "name": "紅玉海",
+    "insCount": 1
+  },
+  {
+    "id": 2410,
+    "name": "ヤンサ",
+    "insCount": 1
+  },
+  {
+    "id": 2411,
+    "name": "アジムステップ",
+    "insCount": 1
+  },
+  {
+    "id": 2953,
+    "name": "レイクランド",
+    "insCount": 1
+  },
+  {
+    "id": 2954,
+    "name": "コルシア島",
+    "insCount": 1
+  },
+  {
+    "id": 2955,
+    "name": "アム・アレーン",
+    "insCount": 1
+  },
+  {
+    "id": 2956,
+    "name": "イル・メグ",
+    "insCount": 1
+  },
+  {
+    "id": 2957,
+    "name": "ラケティカ大森林",
+    "insCount": 1
+  },
+  {
+    "id": 2958,
+    "name": "テンペスト",
+    "insCount": 1
+  }
+]

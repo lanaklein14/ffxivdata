@@ -1,0 +1,114 @@
+[
+    {
+        "key": "ShB",
+        "name": "漆黒エリア",
+        "name_ja": "漆黒エリア",
+        "name_en": "ShB Region",
+        "name_fr": "ShB Region",
+        "name_du": "ShB Region",
+        "class": "grey darken-2 white--text",
+        "zoneIds": [
+            2953,
+            2954,
+            2955,
+            2956,
+            2957,
+            2958
+        ]
+    },
+    {
+        "key": "SB",
+        "name": "紅蓮エリア",
+        "name_ja": "紅蓮エリア",
+        "name_en": "SB Region",
+        "name_fr": "SB Region",
+        "name_de": "SB Region",
+        "class": "red darken-2 white--text",
+        "zoneIds": [
+            2406,
+            2407,
+            2408,
+            2409,
+            2410,
+            2411
+        ]
+    },
+    {
+        "key": "HW",
+        "name": "蒼天エリア",
+        "name_ja": "蒼天エリア",
+        "name_en": "HW Region",
+        "name_fr": "HW Region",
+        "name_de": "HW Region",
+        "class": "indigo darken-2 white--text",
+        "zoneIds": [
+            2200,
+            2100,
+            2002,
+            2000,
+            2001,
+            2101
+        ]
+    },
+    {
+        "key": "LaNoscea",
+        "name": "ラノシア",
+        "name_ja": "ラノシア",
+        "name_en": "La Noscea",
+        "name_fr": "Noscea",
+        "name_de": "La Noscea",
+        "class": "red lighten-2 black--text",
+        "zoneIds": [
+            30,
+            31,
+            32,
+            33,
+            34,
+            350
+        ]
+    },
+    {
+        "key": "Gridania",
+        "name": "グリダニア",
+        "name_ja": "グリダニア",
+        "name_en": "Gridania",
+        "name_fr": "Gridania",
+        "name_de": "Gridania",
+        "class": "yellow lighten-2 black--text",
+        "zoneIds": [
+            54,
+            55,
+            56,
+            57
+        ]
+    },
+    {
+        "key": "Thanalan",
+        "name": "ザナラーン",
+        "name_ja": "ザナラーン",
+        "name_en": "Thanalan",
+        "name_fr": "Thanalan",
+        "name_de": "Thanalan",
+        "class": "brown lighten-2 black--text",
+        "zoneIds": [
+            42,
+            43,
+            44,
+            45,
+            46
+        ]
+    },
+    {
+        "key": "Frontier",
+        "name": "辺境エリア",
+        "name_ja": "辺境エリア",
+        "name_en": "Frontier",
+        "name_fr": "Frontière",
+        "name_de": "Grenze",
+        "class": "brown lighten-4 black--text",
+        "zoneIds": [
+            67,
+            63
+        ]
+    }
+]

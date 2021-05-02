@@ -1,0 +1,162 @@
+[
+  {
+    "id": 90,
+    "name": "Aegis",
+    "dc": "Elemental"
+  },
+  {
+    "id": 68,
+    "name": "Atomos",
+    "dc": "Elemental"
+  },
+  {
+    "id": 45,
+    "name": "Carbuncle",
+    "dc": "Elemental"
+  },
+  {
+    "id": 58,
+    "name": "Garuda",
+    "dc": "Elemental"
+  },
+  {
+    "id": 94,
+    "name": "Gungnir",
+    "dc": "Elemental"
+  },
+  {
+    "id": 49,
+    "name": "Kujata",
+    "dc": "Elemental"
+  },
+  {
+    "id": 60,
+    "name": "Ramuh",
+    "dc": "Elemental"
+  },
+  {
+    "id": 72,
+    "name": "Tonberry",
+    "dc": "Elemental"
+  },
+  {
+    "id": 50,
+    "name": "Typhon",
+    "dc": "Elemental"
+  },
+  {
+    "id": 30,
+    "name": "Unicorn",
+    "dc": "Elemental"
+  },
+  {
+    "id": 43,
+    "name": "Alexander",
+    "dc": "Gaia"
+  },
+  {
+    "id": 69,
+    "name": "Bahamut",
+    "dc": "Gaia"
+  },
+  {
+    "id": 92,
+    "name": "Durandal",
+    "dc": "Gaia"
+  },
+  {
+    "id": 46,
+    "name": "Fenrir",
+    "dc": "Gaia"
+  },
+  {
+    "id": 59,
+    "name": "Ifrit",
+    "dc": "Gaia"
+  },
+  {
+    "id": 98,
+    "name": "Ridill",
+    "dc": "Gaia"
+  },
+  {
+    "id": 76,
+    "name": "Tiamat",
+    "dc": "Gaia"
+  },
+  {
+    "id": 51,
+    "name": "Ultima",
+    "dc": "Gaia"
+  },
+  {
+    "id": 52,
+    "name": "Valefor",
+    "dc": "Gaia"
+  },
+  {
+    "id": 31,
+    "name": "Yojimbo",
+    "dc": "Gaia"
+  },
+  {
+    "id": 32,
+    "name": "Zeromus",
+    "dc": "Gaia"
+  },
+  {
+    "id": 44,
+    "name": "Anima",
+    "dc": "Mana"
+  },
+  {
+    "id": 23,
+    "name": "Asura",
+    "dc": "Mana"
+  },
+  {
+    "id": 24,
+    "name": "Belias",
+    "dc": "Mana"
+  },
+  {
+    "id": 70,
+    "name": "Chocobo",
+    "dc": "Mana"
+  },
+  {
+    "id": 47,
+    "name": "Hades",
+    "dc": "Mana"
+  },
+  {
+    "id": 48,
+    "name": "Ixion",
+    "dc": "Mana"
+  },
+  {
+    "id": 82,
+    "name": "Mandragora",
+    "dc": "Mana"
+  },
+  {
+    "id": 96,
+    "name": "Masamune",
+    "dc": "Mana"
+  },
+  {
+    "id": 28,
+    "name": "Pandaemonium",
+    "dc": "Mana"
+  },
+  {
+    "id": 29,
+    "name": "Shinryu",
+    "dc": "Mana"
+  },
+  {
+    "id": 61,
+    "name": "Titan",
+    "dc": "Mana"
+  }
+]
