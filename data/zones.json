@@ -14,12 +14,16 @@
             {
                 "id": 2962,
                 "name": "クロック・ミテーヌ",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 3900,
+                "respawn_max": 4500
             },
             {
                 "id": 2945,
                 "name": "醜男のヴォガージャ",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 210,
+                "respawn_max": 330
             },
             {
                 "id": 2928,
@@ -262,12 +266,16 @@
             {
                 "id": 2963,
                 "name": "ケロゲロス",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 3000,
+                "respawn_max": 3000
             },
             {
                 "id": 2946,
                 "name": "ウンクテヒ",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 225,
+                "respawn_max": 345
             },
             {
                 "id": 2929,
@@ -494,12 +502,16 @@
             {
                 "id": 2964,
                 "name": "ガーロック",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 2520,
+                "respawn_max": 2880
             },
             {
                 "id": 2947,
                 "name": "魔導ヘルズクロー",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 210,
+                "respawn_max": 330
             },
             {
                 "id": 2930,
@@ -845,12 +857,16 @@
             {
                 "id": 2965,
                 "name": "ボナコン",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 3900,
+                "respawn_max": 4500
             },
             {
                 "id": 2948,
                 "name": "ナン",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 210,
+                "respawn_max": 330
             },
             {
                 "id": 2931,
@@ -1085,12 +1101,16 @@
             {
                 "id": 2966,
                 "name": "ナンディ",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 2820,
+                "respawn_max": 3180
             },
             {
                 "id": 2949,
                 "name": "マーベリー",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 2932,
@@ -1286,12 +1306,16 @@
             {
                 "id": 2957,
                 "name": "ゾーナ・シーカー",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 3420,
+                "respawn_max": 3900
             },
             {
                 "id": 2940,
                 "name": "アレクトリオン",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 210,
+                "respawn_max": 330
             },
             {
                 "id": 2923,
@@ -1517,12 +1541,16 @@
             {
                 "id": 2958,
                 "name": "ブロンテス",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 4020,
+                "respawn_max": 4620
             },
             {
                 "id": 2941,
                 "name": "サボテンダー・バイラリーナ",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 2924,
@@ -1778,12 +1806,16 @@
             {
                 "id": 2959,
                 "name": "バルウール",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 4020,
+                "respawn_max": 4680
             },
             {
                 "id": 2942,
                 "name": "マヘス",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 180,
+                "respawn_max": 300
             },
             {
                 "id": 2925,
@@ -2115,12 +2147,16 @@
             {
                 "id": 2960,
                 "name": "ヌニュヌウィ",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 2640,
+                "respawn_max": 3240
             },
             {
                 "id": 2943,
                 "name": "ザニゴ",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 225,
+                "respawn_max": 345
             },
             {
                 "id": 2926,
@@ -2524,12 +2560,16 @@
             {
                 "id": 2961,
                 "name": "ミニョーカオン",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 3420,
+                "respawn_max": 3780
             },
             {
                 "id": 2944,
                 "name": "ファイナルフレイム",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 2927,
@@ -2710,12 +2750,16 @@
             {
                 "id": 2953,
                 "name": "レドロネット",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 2520,
+                "respawn_max": 2880
             },
             {
                 "id": 2936,
                 "name": "ファルネウス",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 210,
+                "respawn_max": 330
             },
             {
                 "id": 2919,
@@ -2971,12 +3015,16 @@
             {
                 "id": 2954,
                 "name": "ウルガル",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 4020,
+                "respawn_max": 4680
             },
             {
                 "id": 2937,
                 "name": "メルティゼリー",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 180,
+                "respawn_max": 300
             },
             {
                 "id": 2920,
@@ -3318,12 +3366,16 @@
             {
                 "id": 2955,
                 "name": "マインドフレア",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 3000,
+                "respawn_max": 3000
             },
             {
                 "id": 2938,
                 "name": "ゲーデ",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 225,
+                "respawn_max": 345
             },
             {
                 "id": 2921,
@@ -3629,12 +3681,16 @@
             {
                 "id": 2956,
                 "name": "サウザンドキャスト・セダ",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 3420,
+                "respawn_max": 3900
             },
             {
                 "id": 2939,
                 "name": "ギルタブ",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 2922,
@@ -3840,12 +3896,16 @@
             {
                 "id": 2968,
                 "name": "サファト",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 3600,
+                "respawn_max": 5040
             },
             {
                 "id": 2951,
                 "name": "マラク",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 180,
+                "respawn_max": 300
             },
             {
                 "id": 2934,
@@ -4471,12 +4531,16 @@
             {
                 "id": 2969,
                 "name": "アグリッパ",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 3600,
+                "respawn_max": 5040
             },
             {
                 "id": 2952,
                 "name": "クーレア",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 210,
+                "respawn_max": 330
             },
             {
                 "id": 2935,
@@ -4808,12 +4872,16 @@
             {
                 "id": 2967,
                 "name": "チェルノボーグ",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 3900,
+                "respawn_max": 4260
             },
             {
                 "id": 2950,
                 "name": "コンヌ",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 210,
+                "respawn_max": 330
             },
             {
                 "id": 2933,
@@ -5046,17 +5114,23 @@
             {
                 "id": 4375,
                 "name": "セーンムルウ",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 5040,
+                "respawn_max": 7920
             },
             {
                 "id": 4364,
                 "name": "パイルラスタ",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 4365,
                 "name": "ワイバーンロード",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 4352,
@@ -5339,17 +5413,23 @@
             {
                 "id": 4376,
                 "name": "ペイルライダー",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 5040,
+                "respawn_max": 7920
             },
             {
                 "id": 4366,
                 "name": "機兵のスリップキンクス",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 4367,
                 "name": "ストラス",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 4354,
@@ -5645,17 +5725,23 @@
             {
                 "id": 4377,
                 "name": "ガンダルヴァ",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 5040,
+                "respawn_max": 7920
             },
             {
                 "id": 4368,
                 "name": "ブネ",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 4369,
                 "name": "アガトス",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 4356,
@@ -5951,17 +6037,23 @@
             {
                 "id": 4378,
                 "name": "極楽鳥",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 5040,
+                "respawn_max": 7920
             },
             {
                 "id": 4370,
                 "name": "エンケドラス",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 4371,
                 "name": "シシウトゥル",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 4358,
@@ -6305,17 +6397,23 @@
             {
                 "id": 4380,
                 "name": "レウクロッタ",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 5040,
+                "respawn_max": 7920
             },
             {
                 "id": 4372,
                 "name": "キャムパクティ",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 4373,
                 "name": "センチブロッサム",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 4360,
@@ -6588,17 +6686,23 @@
             {
                 "id": 4374,
                 "name": "カイザーベヒーモス",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 5040,
+                "respawn_max": 7920
             },
             {
                 "id": 4362,
                 "name": "ミルカ",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 4363,
                 "name": "リューバ",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 4350,
@@ -6918,17 +7022,23 @@
             {
                 "id": 5987,
                 "name": "ウドンゲ",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 5040,
+                "respawn_max": 7920
             },
             {
                 "id": 5990,
                 "name": "オルクス",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 5991,
                 "name": "アール",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 6008,
@@ -7200,17 +7310,23 @@
             {
                 "id": 5988,
                 "name": "ボーンクローラー",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 5040,
+                "respawn_max": 7920
             },
             {
                 "id": 5992,
                 "name": "バックスタイン",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 5993,
                 "name": "アクラブアメル",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 6010,
@@ -7458,17 +7574,23 @@
             {
                 "id": 5989,
                 "name": "ソルト・アンド・ライト",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 5040,
+                "respawn_max": 7920
             },
             {
                 "id": 5994,
                 "name": "マヒシャ",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 5995,
                 "name": "ルミナーレ",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 6012,
@@ -7729,17 +7851,23 @@
             {
                 "id": 5984,
                 "name": "オキナ",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 5040,
+                "respawn_max": 7920
             },
             {
                 "id": 5996,
                 "name": "船幽霊",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 5997,
                 "name": "オニユメミ",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 6002,
@@ -7940,17 +8068,23 @@
             {
                 "id": 5985,
                 "name": "ガンマ",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 5040,
+                "respawn_max": 7920
             },
             {
                 "id": 5998,
                 "name": "ガジャースラ",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 5999,
                 "name": "アンガダ",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 6004,
@@ -8151,17 +8285,23 @@
             {
                 "id": 5986,
                 "name": "オルガナ",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 5040,
+                "respawn_max": 7920
             },
             {
                 "id": 6000,
                 "name": "ギリメカラ",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 6001,
                 "name": "ソム",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 6006,
@@ -8409,17 +8549,23 @@
             {
                 "id": 8905,
                 "name": "ティガー",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 5040,
+                "respawn_max": 7920
             },
             {
                 "id": 8906,
                 "name": "ナックラヴィー",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 8907,
                 "name": "ナリーポン",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 8908,
@@ -8726,17 +8872,23 @@
             {
                 "id": 8910,
                 "name": "フォーギヴン・ペダントリー",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 5040,
+                "respawn_max": 7920
             },
             {
                 "id": 8911,
                 "name": "リルマーダー",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 8912,
                 "name": "フラカン",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 8913,
@@ -9032,17 +9184,23 @@
             {
                 "id": 8900,
                 "name": "タルキア",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 5040,
+                "respawn_max": 7920
             },
             {
                 "id": 8901,
                 "name": "マリクテンダー",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 8902,
                 "name": "シュガール",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 8903,
@@ -9350,17 +9508,23 @@
             {
                 "id": 8653,
                 "name": "アグラオペ",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 5040,
+                "respawn_max": 7920
             },
             {
                 "id": 8654,
                 "name": "泥人",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 8655,
                 "name": "ポールディア",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 8656,
@@ -9655,17 +9819,23 @@
             {
                 "id": 8890,
                 "name": "イシュタム",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 5040,
+                "respawn_max": 7920
             },
             {
                 "id": 8891,
                 "name": "スペイ",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 8892,
                 "name": "グラスマン",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 8893,
@@ -9936,17 +10106,23 @@
             {
                 "id": 8895,
                 "name": "グニット",
-                "rank": "S"
+                "rank": "S",
+                "respawn_min": 5040,
+                "respawn_max": 7920
             },
             {
                 "id": 8896,
                 "name": "ルサルカ",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 8897,
                 "name": "バール",
-                "rank": "A"
+                "rank": "A",
+                "respawn_min": 240,
+                "respawn_max": 360
             },
             {
                 "id": 8898,
