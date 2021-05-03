@@ -2,7 +2,7 @@
   "name": "ffxivdata",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "ffxivdata.js",
   "scripts": {
     "build": "node tools/build.js",
     "xivapi": "node tools/xivapi.js",
