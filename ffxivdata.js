@@ -1,5 +1,9 @@
+const log4js = require('log4js')
 const axios = require('axios')
+const HuntnetProxy = require('./lib/huntnetProxy')
 const URL_ZONE_INSTANCES = "https://lanaklein14.github.io/ffxivdata/dist/zoneinstances.json"
+
+const logger = log4js.getLogger()
 
 class FFXIVDATA {
     constructor() {
@@ -7,6 +11,7 @@ class FFXIVDATA {
         this._regions = require('./dist/regions.json')
         this._zones = require('./dist/zones.json')
         this._zoneInstances = require('./dist/zoneInstances.json')
+        this._huntnetProxy = new HuntnetProxy()
     }
 
     get dataCenters() {
@@ -30,8 +35,12 @@ class FFXIVDATA {
                 status,
                 statusText
             } = error.response;
-            console.log(`Error! HTTP Status: ${status} ${statusText}`);
+            logger.error(`Error! HTTP Status: ${status} ${statusText}`);
         }
+    }
+
+    huntnetProxy() {
+        return this._huntnetProxy
     }
 
 

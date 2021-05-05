@@ -106,6 +106,21 @@ const outMessages = async (zones, regions) => {
                 logger.debug(`mob ${mob.id} -> ${res.Name_ja}`)
             }
         }
+
+        if (zone.fates) {
+            for (mob of zone.fates) {
+                if (messages.ja.mob[String(mob.id)]) {
+                    continue
+                }
+                const res = await xiv.data.get('BNpcName', mob.id)
+                messages.ja.mob[String(mob.id)] = res.Name_ja
+                messages.en.mob[String(mob.id)] = res.Name_en
+                messages.fr.mob[String(mob.id)] = res.Name_fr
+                messages.de.mob[String(mob.id)] = res.Name_de
+
+                logger.debug(`mob ${mob.id} -> ${res.Name_ja}`)
+            }
+        }        
     }
 
     fs.writeFileSync('./dist/messages.json', JSON.stringify(messages, null, 2));
