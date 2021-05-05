@@ -10,7 +10,7 @@ class FFXIVDATA {
         this._dataCenters = require('./dist/datacenters.json')
         this._regions = require('./dist/regions.json')
         this._zones = require('./dist/zones.json')
-        this._zoneInstances = require('./dist/zoneInstances.json')
+        this._zoneInstances = require('./dist/zoneinstances.json')
         this._huntnetProxy = new HuntnetProxy()
     }
 
